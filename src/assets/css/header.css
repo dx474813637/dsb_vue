@@ -1,0 +1,9 @@
+
+.header-logo {
+	width: 250px;
+	height: 100%;
+	background-image: url('../img/dsb-logo.png');
+	background-repeat: no-repeat;
+	background-size: auto 80%;
+	background-position: 0 center;
+}
