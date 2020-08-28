@@ -1,10 +1,7 @@
 # dsb
-<<<<<<< HEAD
 nb2
 nb4 update
-=======
 nb2 clone
->>>>>>> 3a7f27b5710c9f7d26c3dade5701348f72744881
 ## Project setup
 ```
 npm install
