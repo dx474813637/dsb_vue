@@ -1,5 +1,5 @@
 # dsb
-nb2
+nb2 clone
 ## Project setup
 ```
 npm install
